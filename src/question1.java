@@ -25,4 +25,3 @@ public class PlacemrntRecord{
             r.printRecord();
         }
     }
-}
